@@ -8,6 +8,9 @@ Built a machine learning model to predict whether Kickstarter campaigns will suc
 
 ## What I Did
 
+**Data Searching**
+- https://webrobots.io/kickstarter-datasets/ found it here 
+
 **Data Preprocessing**
 - Loaded and cleaned 205,530 Kickstarter campaigns
 - Filtered to successful/failed campaigns only (~186,000 records)
