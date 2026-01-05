@@ -1,0 +1,17 @@
+# Data files
+*.csv
+*.json
+data/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+venv/
+.env
+
+# Models
+*.pkl
+*.joblib
